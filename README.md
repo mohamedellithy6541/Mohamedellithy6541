@@ -13,7 +13,7 @@
 </p> 
 
 - 🏢 I'm a Software Engineer 
-- 💬 Ask me about my experience with c# ,asp.net Core , and Angular
+- 💬 Ask me about my experience with c# ,asp.net Core , sql ,oop , Linq ,EntityFrame Work  and Angular
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mohamed-el-sayed-54b80422a/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed Ellithy -0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
